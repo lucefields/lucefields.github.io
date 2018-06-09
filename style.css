@@ -1,0 +1,40 @@
+body, html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	font-family: roboto;
+}
+
+header.background {
+	background-position: center;
+	background-image: url(bcg.jpg);
+	background-size: cover;
+	height: 100%;
+}
+
+.container {
+	text-align: center;
+}
+
+h1 {
+	color: rgba(255, 255, 255, 0.9);
+	text-transform: lowercase;
+	margin-left: 50px;
+}
+
+span {
+	color: #FFD301;
+}
+
+hr {
+	width: 200px;
+	border-color: #FFD301;
+	border-width: 2px;
+	align-content: center;
+}
+
+.btn {
+	align-items: center;
+}
